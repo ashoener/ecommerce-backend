@@ -31,7 +31,7 @@ Afterwards, run the following command:
 npm install
 ```
 
-Once everything is installed, you need to specify what database to connect to. Rename the `.env.example` file to `.env`, and fill in the connection information.
+Once everything is installed, you need to specify what database to connect to. If you don't have a database, run the `db/schema.sql` file. Rename the `.env.example` file to `.env`, and fill in the connection information.
 
 ## Usage
 
