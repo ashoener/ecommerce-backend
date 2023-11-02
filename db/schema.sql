@@ -1,7 +1,5 @@
 -- DROP DATABASE
-
 DROP DATABASE IF EXISTS bc_ecommerce_db;
 
 -- CREATE DATABASE
-
 CREATE DATABASE bc_ecommerce_db;
