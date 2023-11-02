@@ -39,7 +39,7 @@ If you would like to just try it out, run `npm run seed` to create tables with e
 
 Once everything is connected, you may run `npm run start` to start up the backend.
 
-To get an idea of what routes are available, you may watch [this video](#TODO).
+To get an idea of what routes are available, you may watch [this video](https://youtu.be/RUHaVoSY-sE).
 
 ## How to Contribute
 
